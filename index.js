@@ -1,8 +1,8 @@
 
 var a = 5;
 function myFunction() {
-    let b = 5
-    return a+b;
+    let c = 5
+    return a+c;
     
 }
 myFunction();
